@@ -6,7 +6,7 @@ const inputButton = document.querySelector('.weather-request-form__button');
 const weather = document.querySelector('.weather')
 console.log(weather);
 
-// const requestURL = 'http://api.weatherapi.com/v1/forecast.json';
+// const requestURL = 'https://api.weatherapi.com/v1/forecast.json';
 // const apiKey = 'a1fc4c4b7e8f4807ac085018232004';
 
 // const xhr = new XMLHttpRequest();
